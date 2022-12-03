@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-KEY:METHOD=SAMPLE-AES,KEYFORMAT="com.apple.streamingkeydelivery",KEYFORMATVERSIONS="1",URI="skd://srg.live.ott.irdeto.com/licenseServer/streaming/v1/SRG/getckc?contentId=RTS1&keyId=256ff185-87b2-4f15-b4f1-ac136b70487e"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://rtsun-euwe.akamaized.net/94a8fb69-01a7-470e-a9c6-239149da0c93/rts1.ism/.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO
-https://rtsun-euwe.akamaized.net/94a8fb69-01a7-470e-a9c6-239149da0c93/rts1.ism/QualityLevels(128000)/Manifest(audio1,format=m3u8-aapl)
-#EXT-X-MEDIA:TYPE=VIDEO
-https://rtsun-euwe.akamaized.net/94a8fb69-01a7-470e-a9c6-239149da0c93/rts1.ism/QualityLevels(249600)/Manifest(video,format=m3u8-aapl)
